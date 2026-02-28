@@ -1,0 +1,25 @@
+# 数据库配置（包含敏感信息，不要上传到 Git）
+config.php
+
+# 用户上传的文件
+logo.png
+logo.jpg
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
+
+# 说明文档（可选）
+logo-instructions.txt
+database-capacity.txt
